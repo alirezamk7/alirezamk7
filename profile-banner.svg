@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" role="img" aria-labelledby="title description">
+<title id="title">Alireza Mousakhani</title>
+<desc id="description">Business Developer and Investment Manager. Finance, research and open-source tools.</desc>
+<defs><linearGradient id="background" x2="1" y2="1"><stop stop-color="#18364c"/><stop offset="1" stop-color="#0d1b2c"/></linearGradient></defs>
+<rect width="1280" height="280" rx="18" fill="url(#background)"/>
+<rect x="1" y="1" width="1278" height="278" rx="17" fill="none" stroke="#36546b"/>
+<rect x="43" y="48" width="5" height="180" rx="2" fill="#b98f54"/>
+<text x="73" y="113" fill="#f0f5fa" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="650">Alireza Mousakhani</text>
+<text x="76" y="162" fill="#d0b17e" font-family="Segoe UI,Arial,sans-serif" font-size="27">Business Developer &amp; Investment Manager</text>
+<text x="77" y="210" fill="#b8c9d6" font-family="Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="2">FINANCE / RESEARCH / OPEN-SOURCE TOOLS</text>
+<g fill="none" stroke="#35566c" stroke-width="1.5"><path d="M954 66H1197M954 126H1197M954 186H1197M954 246H1197M976 45V246M1036 45V246M1096 45V246M1156 45V246"/><circle cx="1036" cy="126" r="37"/><circle cx="1156" cy="186" r="18"/><path d="M1068 146L1139 177M995 67L1018 95M1056 95L1096 45"/></g>
+<g fill="#b98f54"><circle cx="995" cy="67" r="5"/><circle cx="1096" cy="45" r="5"/><circle cx="1036" cy="126" r="6"/></g>
+</svg>
